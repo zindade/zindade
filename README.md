@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel!
 
-<!--
-**zindade/zindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇵🇹 From Porto, Portugal  
+- 💼 Working at IKEA (Logistics)  
+- 👨‍💻 Studying Software Engineering at Code for All  
+- 💻 Learning Java, Spring Boot, SQL, Networking (CCNA)  
+- 🔒 Interested in Cybersecurity and Backend Development  
+- 🌍 Always learning, creating, and improving every day  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,html,css,js,git,linux,vscode,maven" />
+</p>
+
+## 🌱 About Me
+I’m passionate about technology, problem-solving, and continuous learning.  
+My goal is to grow as a developer and contribute to meaningful tech projects.  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-silva-sf19)  
