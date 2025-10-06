@@ -49,9 +49,6 @@ I’m also interested in **Networking (CCNA)** and **Cybersecurity**, as I enjoy
 - **[Baymax-SPA](https://github.com/zindade/baymax-spa)**  
   Health web app built with Java and Spring Boot, integrating APIs (Wikipedia & Google Maps).  
 
-- **[Animal Survival](https://github.com/zindade/animal-survival)**  
-  2D survival game in Java using the SimpleGraphics library.  
-
 - **[TCP Chat](https://github.com/zindade/tcp-chat)**  
   Multi-client chat server in Java using sockets and thread pools.
 
